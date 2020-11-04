@@ -1,0 +1,9 @@
+#To compose and send an email, use the following command in the terminal:
+#ssmtp mail-receiver@example.com < mail-example
+
+To : receiver-mail@example.com
+From : notifications.smap@gmail.com
+Subject : affair
+
+Random message
+Hello, this is a test mail.
